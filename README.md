@@ -2,7 +2,7 @@
 Analyze web server access logs
 
 Folder structure
-
+```
 .
 ├── data
 ├── LICENSE
@@ -10,3 +10,4 @@ Folder structure
 │   └── LogAnalyticsBehaviour.ipynb
 ├── README.md
 └── requirements.txt
+```
